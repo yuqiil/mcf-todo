@@ -47,8 +47,8 @@ Assuming the application runs at ```/path/to/your/dir```, and assuming all of th
 ```
 /path/to/your/dir/somedir/somemodule/somefile.js
 /path/to/your/dir/somedir/somemodule/someotherfile.js
-/path/to/your/dir/somedir2/anotherdir/yet_another_dir/index.js
 /path/to/your/dir/somedir2/anotherdir/index.js
+/path/to/your/dir/somedir2/anotherdir/yet_another_dir/index.js
 /path/to/your/dir/somedir2/index.js
 /path/to/your/dir/somedir3/another_file.js
 ```
