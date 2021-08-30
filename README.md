@@ -18,7 +18,7 @@ $ git clone https://github.com/yuqiil/mcf-todo
 ### Run the script
 ```bash
 $ cd mcf-todo
-$ go run mcd-todo
+$ go run main.go
 ```
 
 ## Features
