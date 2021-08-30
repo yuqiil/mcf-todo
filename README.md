@@ -12,7 +12,7 @@ Ensure that you have Go installed. Otherwise, click [here](https://golang.org/do
 ### Clone the Project
 
 ```bash
-$ git clone github.com/yuqiil/mcf-todo
+$ git clone https://github.com/yuqiil/mcf-todo
 ```
 
 ### Run the script
